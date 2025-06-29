@@ -14,3 +14,5 @@ def volumedown():
         keyboard.press(Key.media_volume_down)
         keyboard.release(Key.media_volume_down)
         sleep(0.1)
+
+# i am the main character
